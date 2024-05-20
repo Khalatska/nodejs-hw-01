@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Randall Ebert",
+    "phone": "(437) 385-9516 x5340",
+    "email": "Clemmie_Turner20@yahoo.com",
+    "job": "Senior Paradigm Analyst"
+  },
+  {
+    "name": "Fredrick Hackett",
+    "phone": "1-302-728-2512 x9289",
+    "email": "Colton49@hotmail.com",
+    "job": "Internal Usability Developer"
+  },
+  {
+    "name": "Dexter Lemke-McLaughlin",
+    "phone": "(667) 787-5818 x21878",
+    "email": "Ian56@gmail.com",
+    "job": "Principal Directives Officer"
+  },
+  {
+    "name": "Salvador Goodwin-Nicolas",
+    "phone": "611-860-2368",
+    "email": "Fermin0@hotmail.com",
+    "job": "National Functionality Liaison"
+  }
+]
